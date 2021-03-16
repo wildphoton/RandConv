@@ -1,6 +1,5 @@
 # RandConv
 
-Official code for **Robust and Generalizable Visual Representation Learning via Random Convolutions (ICLR2021)\
-by Zhenlin Xu, Deyi Liu, Junlin Yang, Colin Raffel, Marc Niethammer**
+Official repo for [Robust and Generalizable Visual Representation Learning via Random Convolutions (ICLR2021)](https://openreview.net/forum?id=BVSM0x3EDK6)\
 
-Code will be updated soon.
+Code and documentation will be updated soon.
