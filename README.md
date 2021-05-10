@@ -6,6 +6,7 @@ Update 05/10: Code for RandConv and training scripts on digits data are availabl
 Scripts for PACS and imagenet are on the way.
 
 ## Requirements
+See `requirements.txt`. Note that Pytorch v1.7 was used for testing.
 
 ## Running RandConv on Digits data
 * MNIST-C has to be manually downloaded from https://github.com/google-research/mnist-c. Unzip the data into ./data/MNIST-M or change the data path in `train_digits.py`.
